@@ -1,8 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Siddhesh
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Siddhesh Sawant
 <img align="right" alt="coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 ================================================================================================================================
 
-Full Stack Developer
+A passionate Software Development Engineer
 --------------------
 
 pursuing 3rd year Bachelors in Computer Engineering. My hobbies are Riding, Travelling, reading Books as well as aerobic. My strength is adapt any kind of environment. I have a great zeal to learn and grow. Proficient in C, C++, HTML, PYTHON,JAVA, JAVASCRIPT, DATA STRUCTURES AND ALGORITHM And ANDROID. Passionate about implementing and launching new projects. Looking to start the career as an entry-level software engineer with a reputed firm driven by technology. I am dynamically with positive attitude person. That's all about me. Thank you!
