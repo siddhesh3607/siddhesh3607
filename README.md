@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A passionate Software Development Engineer
 --------------------
 
-pursuing Final year of Bachelors in Computer Engineering. My hobbies are Riding, Travelling, reading Books as well as aerobic. My strength is adapt any kind of environment. I have a great zeal to learn and grow. Proficient in C, C++, HTML, PYTHON,JAVA, JAVASCRIPT, DATA STRUCTURES AND ALGORITHM And ANDROID. Passionate about implementing and launching new projects. Looking to start the career as an entry-level software engineer with a reputed firm driven by technology. I am dynamically with positive attitude person. That's all about me. Thank you!
+pursuing Final year of Bachelors in Computer Engineering. My hobbies are Riding, Travelling, reading Books as well as aerobic. My strength is adapt any kind of environment. I have a great zeal to learn and grow. Proficient in C, C++, HTML, CSS, REACTJS, NODEJS JAVA, JAVASCRIPT, DATA STRUCTURES AND ALGORITHM, AWS, MONGODB And MYSQL. Passionate about implementing and launching new projects. Looking to start the career as an entry-level software engineer with a reputed firm driven by technology. I am dynamically with positive attitude person. That's all about me. Thank you!
 
 * 🌍  I'm based in Nashik, Maharashtra
 * 🖥️  See my portfolio at [https://siddheshsawant.netlify.app/](http://https://siddheshsawant.netlify.app/)
