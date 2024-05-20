@@ -8,7 +8,7 @@ A passionate Software Development Engineer
 pursuing Final year of Bachelors in Computer Engineering. My hobbies are Riding, Travelling, reading Books as well as aerobic. My strength is adapt any kind of environment. I have a great zeal to learn and grow. Proficient in C, C++, HTML, CSS, REACTJS, NODEJS JAVA, JAVASCRIPT, DATA STRUCTURES AND ALGORITHM, AWS, MONGODB And MYSQL. Passionate about implementing and launching new projects. Looking to start the career as an entry-level software engineer with a reputed firm driven by technology. I am dynamically with positive attitude person. That's all about me. Thank you!
 
 * 🌍  I'm based in Nashik, Maharashtra
-* 🖥️  See my portfolio at [https://siddheshsawant.netlify.app/](http://https://siddheshsawant.netlify.app/)
+* 🖥️  See my portfolio at [https://siddheshsawant.netlify.app/](/https://siddheshsawant.netlify.app/)
 * ✉️  You can contact me at [ssiddhesh613@gmail.com](mailto:ssiddhesh613@gmail.com)
 * 🤝  I'm open to collaborating on Interesting Projects
 * ⚡  Ask me about anything. I will try to help you as much as I can.
