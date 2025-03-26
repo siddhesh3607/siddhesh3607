@@ -14,9 +14,7 @@
 </div>
 
 
-##
-
-I am an Engineering Graduate, B.E, CS student with a keen interest in Blockchain!
+## 👁️‍🗨️ About Me
 
 * 👁‍🗨  GM! Siddhesh Sawant this side!
 * 🌍  I'm based in Nashik, Maharashtra
