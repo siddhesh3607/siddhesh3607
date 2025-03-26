@@ -1,12 +1,24 @@
-GM! Siddhesh this side!
-<img align="right" alt="coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-================================================================================================================================
+# <div align="center"> ⚡ D E V E L O P E R &nbsp; P O R T F O L I O ⚡</div>
 
-A passionate Software Development Engineer
---------------------
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" height="150">
+</div>
 
-I am an Engineering Graduate, B.E, CS student with a keen interest in Blockchain and cloud development.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=1000&height=100&lines=Fullstack+Developer+%7C+Blockchain+Dev+%26+Researcher;Code+%E2%86%92+Create+%E2%86%92+Disrupt" alt="Typing SVG" />
+</div>
 
+<div align="center">
+  <!-- Save the SVG to your repo and link it here -->
+  <img src="pixel-art.svg" width="320" alt="Pixel Art Developer">
+</div>
+
+
+##
+
+I am an Engineering Graduate, B.E, CS student with a keen interest in Blockchain!
+
+* 👁‍🗨  GM! Siddhesh Sawant this side!
 * 🌍  I'm based in Nashik, Maharashtra
 * ✉️  You can contact me at [ssiddhesh613@gmail.com](mailto:ssiddhesh613@gmail.com)
 * 🤝  I'm open to collaborating on Interesting Projects
