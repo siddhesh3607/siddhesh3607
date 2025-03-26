@@ -1,14 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Siddhesh Sawant
+GM! Siddhesh this side!
 <img align="right" alt="coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 ================================================================================================================================
 
 A passionate Software Development Engineer
 --------------------
 
-I am an Engineering Graduate, B.E, CS student with a keen interest in Blockchain and cloud development. My hobbies are Riding, Travelling, reading Books as well as aerobic. My strength is adapt any kind of environment. I have a great zeal to learn and grow. Proficient in C, C++, HTML, CSS, REACTJS, NODEJS, JAVA, JAVASCRIPT, DATA STRUCTURES AND ALGORITHM, AWS, MONGODB And MYSQL. Passionate about implementing and launching new projects. Looking to start the career as an entry-level software engineer with a reputed firm driven by technology. I am dynamically with positive attitude person. That's all about me. Thank you!
+I am an Engineering Graduate, B.E, CS student with a keen interest in Blockchain and cloud development.
 
 * 🌍  I'm based in Nashik, Maharashtra
-* 🖥️  See my portfolio at [https://siddheshsawant.netlify.app/](https://siddheshsawant.netlify.app/)
 * ✉️  You can contact me at [ssiddhesh613@gmail.com](mailto:ssiddhesh613@gmail.com)
 * 🤝  I'm open to collaborating on Interesting Projects
 * ⚡  Ask me about anything. I will try to help you as much as I can.
@@ -37,16 +36,12 @@ I am an Engineering Graduate, B.E, CS student with a keen interest in Blockchain
 
 ### Socials
 
-<p align="left"> <a href="https://www.dev.to/siddhesh3607" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://discord.com/users/siddhesh#7971" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/siddhesh3607" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/siddhesh-sawant-61103b21b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/siddhesh3607" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/siddhesh3607" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/siddhesh3607" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/siddhesh-sawant-61103b21b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/siddhesh3607" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Badges
 
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/siddhesh3607"><img src="https://github-readme-stats.vercel.app/api?username=siddhesh3607&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=f97316&icon_color=facc15&bg_color=000000&hide_border=true&show_icons=true" alt="siddhesh3607's GitHub stats" /></a>
 
-<a href="http://www.github.com/siddhesh3607"><img src="https://github-readme-streak-stats.herokuapp.com/?user=siddhesh3607&stroke=f97316&background=000000&ring=ffffff&fire=ffffff&currStreakNum=f97316&currStreakLabel=ffffff&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" /></a>
 
-### Support Me
 
-<a href="https://www.buymeacoffee.com/sid3607"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
