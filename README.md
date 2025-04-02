@@ -17,10 +17,10 @@
 ## 👁️‍🗨️ About Me
 
 * 👁‍🗨  GM! Siddhesh Sawant this side!
-* 🌍  I'm based in Nashik, Maharashtra
+* 🌍  I'm based in Nashik, Maharashtra!
 * ✉️  You can contact me at [ssiddhesh613@gmail.com](mailto:ssiddhesh613@gmail.com)
-* 🤝  I'm open to collaborating on Interesting Projects
-* ⚡  Ask me about anything. I will try to help you as much as I can.
+* 🤝  I'm open to collaborating on Interesting Projects!
+* ⚡  Ask me about anything! I will try to help you as much as I can!
 
 ### Skills
 
